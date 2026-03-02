@@ -8,6 +8,8 @@ A production-grade AI chatbot that lets you **chat with any website**. Paste a U
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-purple)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-orange)
 
+<img width="1266" height="748" alt="RAG CHATBOT" src="https://github.com/user-attachments/assets/ec1929fb-d1a3-4b17-9319-f5469067de2f" />
+
 ---
 
 ## 🚀 Demo
